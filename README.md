@@ -1,3 +1,3 @@
 # helloworld
 start my project
-Here are changes fro the readme.edit branch
+Here are changes for the readme.edit branch
